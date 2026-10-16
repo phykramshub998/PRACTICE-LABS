@@ -52,7 +52,7 @@
 >Inter VLAN routing
 
 >Router on A stick configurations
-
+ 
 >Multi-layer switching using Layer 3 switch
 
 >Test pings between Vlans and also the Internet.
