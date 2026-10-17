@@ -56,5 +56,10 @@
 >Multi-layer switching using Layer 3 switch
 
 >Test pings between Vlans and also the Internet.
-<img width="960" height="600" alt="Multi-layer topology" src="https://github.com/user-attachments/assets/6cf233dd-e5b0-490d-8721-576426923fcc" />
-<img width="950" height="533" alt="Pings btn Vlans and intenet" src="https://github.com/user-attachments/assets/8e5f20bf-db7f-4e92-932a-1607f36b3d3b" />
+
+
+\#LAB 5#
+>DNS configurations
+
+>DHCP configurations
+
